@@ -1,0 +1,28 @@
+.style-2 {
+    
+    padding: 1.2em;
+    background-color: white;
+    border: 5px solid black;
+    border-radius: 30px;
+    box-shadow: 10px 5px plum;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    color: rgba(0,0,0,.75);
+    transition: all .2s linear;
+    text-align: center;
+    border-radius: 4px;
+  }
+  
+  .style-2:hover {
+    color: black;
+    padding: 1em;
+    box-shadow: 10px 5px purple;
+  }
+
+
+  .center {
+    color: blueviolet;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-bottom: 10px;
+  }
